@@ -1,6 +1,6 @@
 
 
-**Hii guys!** I am debasish behera and i am currently doing my undergrad degree.
+**Hii guys!** My name is **Debasish Behera** and I look to do stuffs which makes me happy that what **AI** does it.
 
 - 🔭 I work on Computer Vision and NLP Projects.
 
