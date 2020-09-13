@@ -4,7 +4,7 @@
 
 # HEYYA!
 
-**Hii guys!** My name is **Debasish Behera** and I look to do stuffs which makes me happy that's what **AI** does .
+**Hii guys!** My name is **Debasish Behera** and I like to do stuffs which makes me happy that's what **AI** does .
 
 - 🔭 I work on Computer Vision and NLP Projects.
 
